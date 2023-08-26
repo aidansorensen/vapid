@@ -2,7 +2,7 @@
 Virtual Address Pointer On Disk: very fun assignment converting a target virtual address in a program to it's actual location on disk
 
 
-assignment posted in William Hawkins III Malware Analysis class repo:
+assignment posted in Professor William Hawkins III Malware Analysis class repo:
 https://github.com/hawkinsw/CS5138/tree/main/Assignment1
 
 
